@@ -1,0 +1,19 @@
+{
+  "name": "disney-alkemy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giulianaarce/Disney-Alkemy.git"
+  },
+  "author": "Giuliana Arce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giulianaarce/Disney-Alkemy/issues"
+  },
+  "homepage": "https://github.com/giulianaarce/Disney-Alkemy#readme"
+}
