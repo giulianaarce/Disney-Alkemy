@@ -1,7 +1,7 @@
 {
   "name": "disney-alkemy",
   "version": "1.0.0",
-  "description": "",
+  "description": "Challenge de Disney",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/giulianaarce/Disney-Alkemy/issues"
   },
-  "homepage": "https://github.com/giulianaarce/Disney-Alkemy#readme"
+  "homepage": "https://github.com/giulianaarce/Disney-Alkemy#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.7"
+  }
 }
